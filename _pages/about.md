@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: 3rd year Economics PhD student at <a href='https://warwick.ac.uk/fac/soc/economics/'>University of Warwick</a>
+subtitle: Department of Economics, <a href='https://warwick.ac.uk/fac/soc/economics/'>The University of Warwick</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-My research is on panel data econometrics with focus on methodological improvements and their applications in finance and macroeconomics. I am funded by the Economic and Social Research Coucil's MGS Fellowship.
+I am a third year PhD candidate in Economics at the University of Warwick. My research is on panel data econometrics with focus on methodological improvements and their applications in finance and macroeconomics. I am funded by the Economic and Social Research Coucil's MGS Fellowship.
 
 Before I started my PhD, I spent close to a decade in public service in the [Indian Admnistrative Service](https://en.wikipedia.org/wiki/Indian_Administrative_Service). During this period, I held leadership roles in designing and executing economic policies. These roles included the Chief Executive of a [district](https://en.wikipedia.org/wiki/District_magistrate) with a population of 1.1 million and Acting Secretary to the Government of Kerala, India in the Finance Department. 
 
