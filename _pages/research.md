@@ -2,11 +2,20 @@
 layout: page
 permalink: /research/
 title: Research
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I work on panel data econometrics with my supervisors, [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/) and [Kenichi Nagasawa](https://warwick.ac.uk/fac/soc/economics/staff/knagasawa/).
+### Granular Instrumental Variables
+The methodology of Granular Instrumental Variables (GIV) pioneered by Gabaix and Koijen (2022) offers an exciting way to estimate structural parameters on endogenous variables. I am pursuing methodological research on this. 
 
-Organize your courses by years, topics, or universities, however you like!
+#### Theory for Panels with Finite Cross Sectional Units (with Kenichi Nagasawa)
+I research on extending the theory of Granular Instrumental Variables (GIV) for panels with finite cross-sectional units and infinite time dynamics when both common factors and factor loadings in the error term are not available. 
+
+#### Optimal and Weak GIV (with Eric Renault)
+I research on the construction of optimal GIV and advanced inferential issues like weak instruments when the economy is not sufficinetly granular. 
+
+
+
