@@ -24,7 +24,7 @@ pagination:
     <h4>{{ site.blog_description }}</h4>
   </div>
   {% endif %}
-
+<!-- 
   {% if site.display_tags or site.display_categories %}
   <div class="tag-category-list">
     <ul class="p-0 m-0">
@@ -50,7 +50,7 @@ pagination:
     </ul>
   </div>
   {% endif %}
-
+-->
   {% assign featured_posts = site.posts | where: "featured", "true" %}
   {% if featured_posts.size > 0 %}
     <br>
@@ -135,6 +135,7 @@ pagination:
         <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
           <i class="fas fa-calendar fa-sm"></i> {{ year }} </a>
 
+          
           {% if tags != "" %}
           &nbsp; &middot; &nbsp;
             {% for tag in post.tags %}
@@ -142,6 +143,7 @@ pagination:
               <i class="fas fa-hashtag fa-sm"></i> {{ tag }}</a> &nbsp;
               {% endfor %}
           {% endif %}
+          
 
           {% if categories != "" %}
           &nbsp; &middot; &nbsp;
