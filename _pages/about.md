@@ -26,3 +26,5 @@ I have a Masters in Public Affairs from Princeton University, where I was a Karl
 
 I enjoy learning about economic and political history, especially the 18th and 19th century, visiting museums, running, and playing football. My favourite podcasts are [The Age of Napoleon](https://ageofnapoleon.com) and [The Fall of Civilizations](https://fallofcivilizationspodcast.com).
 
+Find book reviews and commentaries on interesting new papers in my [blog](/blog/).
+
