@@ -11,6 +11,7 @@ nav_order: 4
 * Fall Semester 2023-24
     * Course: EC9A3 Advanced Econometric Theory 
     * Instructor: Eric Renault
+    * Evaluation: **5/5**
 
 ## Undergraduate Courses
 * Spring Semester 2023-24
