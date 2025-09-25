@@ -8,19 +8,16 @@ nav_order: 4
 ---
 
 ## PhD Level Courses
-* Fall Semester 2023-24
-    * Course: EC9A3 Advanced Econometric Theory 
-    * Instructor: Eric Renault
-    * Evaluation: **5/5**
+* EC9A3: Advanced Econometric Theory
+    * Semesters: Spring 24 (Eric Renault), Spring 25 (Kenichi Nagasawa)  
 
 ## Undergraduate Courses
-* Spring Semester 2023-24
-    * Course: EC203 Applied Econometrics
-    * Instructor: Tom Martin
-* Fall Semester 2022-23
-    * Course: EC124 Statistical Techniques B
-    * Instructor: Jeremy Smith
-    * Evaluation: **4.8/5**
+* EC140: Mathematical Techniques B
+  * Fall 24 (Alex Dobson)
+* EC203: Applied Econometrics
+  * Fall 23 (Tom Martin)
+* EC124: Statistical Techniques B
+  * Spring 23 (Jeremy Smith)
 
 ---
 ### Student Evaluations
