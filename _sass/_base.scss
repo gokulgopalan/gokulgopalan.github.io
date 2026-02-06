@@ -1034,3 +1034,107 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+// Teaching page cards
+.teaching-section {
+  margin-top: 1.5rem;
+}
+
+.teaching-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 0.75rem 0 1.5rem;
+}
+
+.teaching-card {
+  position: relative;
+  padding: 1rem 1.1rem 1.1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 12px;
+  background-color: var(--global-card-bg-color);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.06);
+}
+
+.teaching-title {
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.teaching-meta {
+  color: var(--global-text-color-light);
+  font-size: 0.95rem;
+  line-height: 1.4;
+  margin-bottom: 0.75rem;
+}
+
+.teaching-tag {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  border: 1px solid var(--global-divider-color);
+  color: var(--global-theme-color);
+}
+
+.teaching-evals {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-top: 0.75rem;
+}
+
+.teaching-quote {
+  padding: 0.9rem 1rem;
+  border-left: 4px solid var(--global-theme-color);
+  background: var(--global-bg-color);
+  border-radius: 8px;
+}
+
+.teaching-quote p {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--global-text-color);
+}
+
+// Research page layout
+.research-intro {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  margin: 1rem 0 2.5rem;
+}
+
+.research-section {
+  position: relative;
+  padding: 1.4rem 0 1.6rem;
+}
+
+.research-section + .research-section {
+  border-top: 1px solid var(--global-divider-color);
+}
+
+.research-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.55rem;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  position: relative;
+  display: inline-block;
+}
+
+.research-title::after {
+  content: "";
+  display: block;
+  height: 4px;
+  width: 48%;
+  margin-top: 0.35rem;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--global-theme-color), rgba(0, 0, 0, 0));
+}
+
+.research-section p {
+  margin: 0;
+  color: var(--global-text-color);
+  line-height: 1.7;
+  font-size: 1.02rem;
+}
