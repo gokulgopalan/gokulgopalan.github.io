@@ -9,7 +9,7 @@ nav_order: 4
 
 ## PhD Level Courses
 * EC9A3: Advanced Econometric Theory
-    * Semesters: Spring 24 (Eric Renault), Spring 25 (Kenichi Nagasawa)  
+    * Semesters: Spring 24 (Eric Renault), Spring 25 (Kenichi Nagasawa), Spring 26(Ana Galvao, Kenichi Nagasawa)  
 
 ## Undergraduate Courses
 * EC140: Mathematical Techniques B
