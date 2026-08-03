@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A growing collection of your cool projects.
+published: false  # no projects yet; set to true once _projects has entries
 nav: false
 nav_order: 3
 display_categories: [work, fun]
