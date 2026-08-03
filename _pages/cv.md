@@ -8,4 +8,4 @@ nav_order: 1
 description:
 ---
 
-You can find my curriculum vitae [here](/assets/pdf/gokul_cv.pdf)
+You can find my curriculum vitae [here]({{ '/assets/pdf/gokul_cv.pdf' | relative_url | bust_file_cache }}).

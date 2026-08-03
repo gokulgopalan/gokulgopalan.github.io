@@ -18,7 +18,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a fifth year (2+3) PhD candidate in Economics at the University of Warwick. My research is on panel data econometrics with focus on Interactive Fixed Effects models. I am funded by the Economic and Social Research Council's MGS Fellowship.
+I am a final year PhD candidate in Economics at the University of Warwick, and I am on the 2026/27 economics job market. My research is on panel data econometrics, with a focus on Granular Instrumental Variables and Interactive Fixed Effects models. I am funded by the Economic and Social Research Council's Midlands Graduate School Doctoral Training Partnership.
+
+My [job market paper](/research/) studies Granular Instrumental Variables in panels where both the cross section and the time series are large, and characterises what happens to identification and inference when the panel lacks the dominant units that make the instrument strong.
 
 Before I started my PhD, I spent close to a decade in public service in the [Indian Administrative Service](https://en.wikipedia.org/wiki/Indian_Administrative_Service). During this period, I held leadership roles in designing and executing economic policies. These roles included the Chief Executive of a [district](https://en.wikipedia.org/wiki/District_magistrate) with a population of 1.1 million and Acting Secretary to the Government of Kerala, India in the Finance Department. 
 
