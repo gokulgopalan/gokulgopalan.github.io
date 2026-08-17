@@ -7,8 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-<p class="research-intro">I work on panel data econometrics with my supervisors, <a href="https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/">Eric Renault</a> and <a href="https://warwick.ac.uk/fac/soc/economics/staff/knagasawa/">Kenichi Nagasawa</a>.</p>
-
 <h2 class="research-group-title">Job Market Paper</h2>
 
 <section class="research-section">
