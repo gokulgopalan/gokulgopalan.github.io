@@ -6,7 +6,7 @@ subtitle: Department of Economics, <a href='https://warwick.ac.uk/fac/soc/econom
 
 profile:
   align: right
-  image: gokul.jpg
+  image: gokul_2026.jpg
   image_circular: false # crops the image to make it circular
   #address: >
     #<p>555 your office number</p>
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a final (sixth) year PhD candidate in Economics at the University of Warwick, and I am on the 2026/27 economics job market. My research is on panel data econometrics, with a focus on Granular Instrumental Variables and Interactive Fixed Effects models. My PhD supervisors are [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/) and [Kenichi Nagasawa](https://warwick.ac.uk/fac/soc/economics/staff/knagasawa/). I am funded by the Economic and Social Research Council's Midlands Graduate School Doctoral Training Partnership.
 
-My [job market paper](/research/) studies Granular Instrumental Variables (GIV) in panels where both the cross section and the time series are large. I derive the asymptotic theory for the GIV estimator when the panel contains dominant units. I then characterise how identification and inference change when those dominant units are absent, and propose inference that remains valid when the instrument is weak.
+My [job market paper](/research/) studies Granular Instrumental Variables (GIV) in panels where both the cross section and the time series are large. I show that estimating the shocks used to build the instrument changes the estimator's variance at first order, and I derive corrected inference. I then characterise how instrument strength changes when dominant units are absent, including a nearly-weak regime in which the estimator remains consistent and asymptotically normal.
 
 Before I started my PhD, I spent close to a decade in public service in the [Indian Administrative Service](https://en.wikipedia.org/wiki/Indian_Administrative_Service). During this period, I held leadership roles in designing and executing economic policies. These roles included serving as the Chief Executive of a [district](https://en.wikipedia.org/wiki/District_magistrate) with a population of 1.1 million and as Acting Secretary in the Finance Department of the Government of Kerala, India.
 
