@@ -27,6 +27,3 @@ Before I started my PhD, I spent close to a decade in public service in the [Ind
 I have a Master's in Public Affairs from Princeton University, where I was a Karl E. Prickett Fellow in Public and International Affairs.
 
 I enjoy visiting museums, running, and playing tennis, and I like learning about economic and political history, especially of the 19th and early 20th centuries. On Saturday mornings you can find me at my nearest [parkrun](https://www.parkrun.org.uk).
-
-Find book reviews and commentaries on interesting new papers in my [blog](/blog/).
-
