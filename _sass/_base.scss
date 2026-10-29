@@ -1046,6 +1046,39 @@ nav[data-toggle="toc"] {
   margin: 0 0 2rem;
 }
 
+.teaching-highlight {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.1rem 1.25rem;
+  margin: 0 0 2rem;
+  border: 1px solid var(--global-divider-color);
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 12px;
+  background-color: var(--global-card-bg-color);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.06);
+}
+
+.teaching-highlight-text {
+  flex: 1 1 320px;
+}
+
+.teaching-highlight-text p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.teaching-highlight-link {
+  flex: 0 0 auto;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--global-theme-color);
+  border-radius: 999px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
 .teaching-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
