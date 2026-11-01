@@ -24,7 +24,7 @@ nav_order: 3
 
 <section class="research-section">
   <h3 class="research-title">Interactive Fixed Effects with Heterogeneous Parameters (with Kenichi Nagasawa)</h3>
-  <p>Bai's (2009) Interactive Fixed Effects estimator is a popular method to estimate parameters in panels with limited endogeneity, but it fails when the parameter of interest varies with individual units. We propose a new estimator that can handle individual heterogeneity using non-parametric estimation.</p>
+  <p>We study interactive fixed effects panel models with common time-series regressors whose slope coefficients vary across units. Such heterogeneity is common in applications: for example, a firm's investment response to interest rates may depend on its size or leverage. Identification is challenging because a common regressor with unit-specific slopes has the same form as an unobserved factor with heterogeneous loadings. Separating these components requires additional restrictions, particularly when the regressor is correlated with the latent factors. Existing estimators either impose common slopes or require additional structure to accommodate slope heterogeneity. We propose a computationally tractable semiparametric estimator based on kernel methods to separate the heterogeneous slopes from the factor structure. In this work in progress, we aim to derive the estimator's asymptotic distribution as both the cross section ($N$) and the time dimension ($T$) grow, and characterize how estimation error in the factor structure interacts with bandwidth choice.</p>
 </section>
 
 
